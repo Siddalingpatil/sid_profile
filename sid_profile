@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siddaling Patil - Technical Trainer & Campus Manager</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="profile-card">
+            <img src="your-photo.jpg" alt="Siddaling Patil" class="profile-img">
+            <h1>Siddaling Patil</h1>
+            <p class="role">Technical Trainer & Campus Manager</p>
+            <p class="description">Expertise in AWS, Python Data Analytics, and IoT.</p>
+        </div>
+        <div class="content">
+            <section>
+                <h2>Skills</h2>
+                <ul>
+                    <li>AWS Cloud Computing</li>
+                    <li>Python & Data Analytics</li>
+                    <li>Internet of Things (IoT)</li>
+                    <li>Technical Training & Mentorship</li>
+                    <li>Campus & Certification Management</li>
+                </ul>
+            </section>
+            <section>
+                <h2>Projects & Experience</h2>
+                <p>Conducted 1000+ student certification exams, trained students in AWS, Python, and IoT.
+                   Managed multiple batches and coordinated Faculty Development Programs (FDPs).</p>
+            </section>
+            <section>
+                <h2>Contact & Socials</h2>
+                <div class="social-icons">
+                    <a href="https://github.com/yourgithub" target="_blank"><i class="fab fa-github"></i></a>
+                    <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    <a href="mailto:your-email@example.com"><i class="fas fa-envelope"></i></a>
+                </div>
+            </section>
+        </div>
+    </div>
+</body>
+</html>
